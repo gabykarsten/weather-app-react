@@ -1,0 +1,24 @@
+.weekly-forecast {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5px 220px;
+  opacity: 0.5;
+}
+
+.daily {
+  margin: 0;
+  padding: 0;
+}
+
+.daily .day {
+  margin: 15px 0 0 0;
+}
+
+.daily .icon {
+  font-size: 40px;
+  margin: 0 auto;
+}
+
+.daily .temp {
+  margin: 0 auto;
+}

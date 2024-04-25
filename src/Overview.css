@@ -1,0 +1,34 @@
+.CurrentCity {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 25px 10px;
+  opacity: 0.5;
+}
+
+.left {
+  text-align: left;
+}
+
+.left h2 {
+  font-size: 25px;
+  margin: 0 auto;
+}
+
+.left p {
+  margin: 0;
+  padding: 0 10px 0 0;
+}
+
+.temperature {
+  display: flex;
+}
+
+.temperature .icon {
+  font-size: 50px;
+  margin: 0 auto;
+}
+
+.temperature .temperature-celcius {
+  font-size: 50px;
+  margin: 0 auto;
+}

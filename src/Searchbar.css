@@ -1,0 +1,15 @@
+.search-bar {
+  width: 550px;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  padding: 10px;
+}
+
+.search-button {
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+}
